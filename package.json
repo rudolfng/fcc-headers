@@ -1,0 +1,14 @@
+{
+  "name": "fcc-headers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rudolfng/fcc-req-headers.git",
+  "author": "Rudolf Niedhammer",
+  "license": "MIT",
+  "scripts":{
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
